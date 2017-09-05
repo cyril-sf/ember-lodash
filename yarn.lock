@@ -2397,9 +2397,9 @@ ember-router-generator@^1.0.0:
   dependencies:
     recast "^0.11.3"
 
-ember-source@2.14.0:
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-2.14.0.tgz#b5266adbdd46deb0a5f3ee6606f491c01d6d0d08"
+ember-source@~2.14.0:
+  version "2.14.1"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-2.14.1.tgz#4abf0b4c916f2da8bf317349df4750905df7e628"
   dependencies:
     "@glimmer/compiler" "^0.22.3"
     "@glimmer/node" "^0.22.3"
@@ -3898,9 +3898,9 @@ lockfile@~1.0.1:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/lockfile/-/lockfile-1.0.3.tgz#2638fc39a0331e9cac1a04b71799931c9c50df79"
 
-lodash-es@^4.17.4:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
+lodash-es@~4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.0.1.tgz#da9b9566718bf51cddf0ae1629b6a480a9b2b443"
 
 lodash._arraycopy@^3.0.0:
   version "3.0.0"
